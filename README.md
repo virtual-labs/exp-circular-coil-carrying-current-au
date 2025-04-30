@@ -1,18 +1,18 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b> Physical Sciences
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Electricity & Magnetism Virtual Lab
+<b> Experiment|     <b> Magnetic Field Along The Axis of A Circular Coil Carrying Current
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+An experiment to study the variation of magnetic field with distance along the axis of a circular coil carrying current.
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Amrita Virtual Labs
 :--|:--|
-<b> Institute | <b>  
+<b> Institute | <b>  Amrita Vishwa Vidyapeetham
 <b> Email id|     <b>  
 <b> Department |  
 
@@ -20,5 +20,5 @@ Fill a brief description of this experiment here
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
+1 | Mr. Saneesh P F | . | . | . | .
 2 | . | . | . | . | .
