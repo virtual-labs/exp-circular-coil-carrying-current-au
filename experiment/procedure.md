@@ -34,10 +34,15 @@ The connections are made as shown in the diagram and the initial adjustments of 
 </ul>
 
 ### To plot the graph between distance and magnetic field intensity:
+
 B<sub>0</sub>= 3.5x10-5 T.
+
 Current, I =............ A
+
 No: of turns of the coil, n=..............
+
 Radius of the circular coil, r =.............. cm
+
 
 ![cir15](https://github.com/user-attachments/assets/78f97969-f428-416a-8ce7-3ace253fee29)
 
@@ -46,7 +51,7 @@ Then plot the graph.
 ### Procedure for doing the simulator:
 First, the preliminary adjustment should be done in order to make the apparatus in the magnetic meridian.
 <ul>
-<li>First, preliminary adjustments should be done in order to properly align the apparatus with the earthÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s magnetic field. The button Initial Adjustment is provided for this purpose. The experimental apparatus will be fully active only after the initial adjustments are done.</li>
+<li>First, preliminary adjustments should be done in order to properly align the apparatus with the earth's magnetic field. The button Initial Adjustment is provided for this purpose. The experimental apparatus will be fully active only after the initial adjustments are done.</li>
 <li>On clicking the initial adjustment button, a zoomed view of the compass box will be displayed in the simulator. Two sliders Rotate Compass box and Rotate apparatus are provided.</li>
 <li>Using the slider Rotate Compass box, the compass box can be rotated and its 90-90 reading parallel to the plane of the coil. Fine adjustments can be made, if necessary, with the left-right arrow keys. </li>
 <li>When the 90-90 alignment is exact, the slider Rotate apparatus will be active. Using this, rotate the whole apparatus and make the aluminium pointer to read 0-0. Fine adjustments can be made with left-right arrow keys.</li>
