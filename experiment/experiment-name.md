@@ -1,2 +1,2 @@
-## Experiment name
-Circular coil carrying current
+## Magnetic Field Along The Axis of A Circular Coil Carrying Current
+
