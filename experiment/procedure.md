@@ -1,6 +1,8 @@
 ## Procedure
 
-## ![Video Link](http://www.youtube.com/v/nTUclQrwW1o&autoplay=1)
+## Video
+<a href="https://youtu.be/nTUclQrwW1o" target="_blank">[![Watch the video](https://i.ytimg.com/an_webp/nTUclQrwW1o/mqdefault_6s.webp?du=3000&sqp=CLCU58AG&rs=AOn4CLDgoppnFEEkq5z4LHnFAnMAkW2pnw)]()</a>
+
 
 ### Apparatus
 Circular coil, compass box, ammeter, rheostat, commutator, cell, key, connection wires, etc. The purpose of the commutator is to allow the current to be reversed only in the coil, while flowing in the same direction in the rest of the circuit. 
