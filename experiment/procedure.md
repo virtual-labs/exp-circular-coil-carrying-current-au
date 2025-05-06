@@ -29,15 +29,15 @@ The connections are made as shown in the diagram and the initial adjustments of 
 <li>Average the magnitude of the two deflections and calculate the magnetic field at the centre of the coil from the equation.</li>
 <li>Without changing the current or the number of turns,  place the compass box at a particular distance from the centre of the coil. Note the deflection. Again reverse the current and average the magnitudes of the two deflections. Note the average, and the distance.</li>
 <li>The same procedure is repeated with the compass box at the same distance on the other side of the arm, keeping number of turns and current constant.</li>
-<li>Take the average of the two values of ÃƒÅ½Ã‚Â¸ measured on opposite sides of the coil.</li>
-<li>Then calculate the magnetic field Bx from the coil using equation (3).</li>
+<li>Take the average of the two values of $\theta$, measured on opposite sides of the coil.</li>
+<li>Then calculate the magnetic field $B_{x}$ from the coil using equation (3).</li>
 <li>Repeat for various distances.</li>
-<li>Draw graph of Bx on the vertical axis vs. distance x on thehorizontal axis.</li>
+<li>Draw graph of $B_{x}$ on the vertical axis vs. distance x on thehorizontal axis.</li>
 </ul>
 
 ### To plot the graph between distance and magnetic field intensity:
 
-B<sub>0</sub>= 3.5x10-5 T.
+$B_{0}=3.5\times 10^{-5}$ T
 
 Current, I =............ A
 
