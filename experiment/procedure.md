@@ -1,8 +1,9 @@
 ## Procedure
 
 ### Video
-<a href="https://youtu.be/nTUclQrwW1o" target="_blank">[![Watch the video](https://i.ytimg.com/an_webp/nTUclQrwW1o/mqdefault_6s.webp?du=3000&sqp=CLCU58AG&rs=AOn4CLDgoppnFEEkq5z4LHnFAnMAkW2pnw)](https://youtu.be/nTUclQrwW1o)</a>
+[![Watch the video](https://i.ytimg.com/an_webp/nTUclQrwW1o/mqdefault_6s.webp?du=3000&sqp=CLCU58AG&rs=AOn4CLDgoppnFEEkq5z4LHnFAnMAkW2pnw)](https://youtu.be/nTUclQrwW1o)
 
+<iframe src="https://www.youtube.com/embed/nTUclQrwW1o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Apparatus
 Circular coil, compass box, ammeter, rheostat, commutator, cell, key, connection wires, etc. The purpose of the commutator is to allow the current to be reversed only in the coil, while flowing in the same direction in the rest of the circuit. 
