@@ -30,7 +30,7 @@ The connections are made as shown in the diagram and the initial adjustments of 
 <li>Take the average of the two values of $\theta$, measured on opposite sides of the coil.</li>
 <li>Then calculate the magnetic field $B_{x}$ from the coil using equation (3).</li>
 <li>Repeat for various distances.</li>
-<li>Draw graph of $B_{x}$ on the vertical axis vs. distance x on thehorizontal axis.</li>
+<li>Draw graph of $B_{x}$ on the vertical axis vs. distance x on the horizontal axis.</li>
 </ul>
 
 ### To plot the graph between distance and magnetic field intensity:
@@ -63,7 +63,7 @@ First, the preliminary adjustment should be done in order to make the apparatus 
 <li>Reverse current: Enables the user to reverse the direction of current through the circuit.</li>
 <li>Using the slider Radius of the coil, the user can change the radius of the coil.</li>
 <li>The slider along with the compass box can be moved along the arm of the apparatus using the slider Compass box position. The user can vary the distance  x of the compass box from the centre of the coil. </li>
-<li>Adjust Rheostat slider can be used to adjust the current throuh the circuit.</li>
+<li>Adjust Rheostat slider can be used to adjust the current through the circuit.</li>
 <li>Show result button displays the result after doing the experiment.</li>
 <li>A Reset button is provided to reset the experimental set up.  (Warning! all wires will be disconnected and the apparatus will be returned to its starting position.)</li>
 <li>The experiment can be repeated for different number of turns and radius of the coil and for different currents.</li>
