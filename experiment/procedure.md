@@ -2,10 +2,10 @@
 
 <iframe src="https://www.youtube.com/embed/nTUclQrwW1o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-### Apparatus
+## Apparatus
 Circular coil, compass box, ammeter, rheostat, commutator, cell, key, connection wires, etc. The purpose of the commutator is to allow the current to be reversed only in the coil, while flowing in the same direction in the rest of the circuit. 
 
-####  Circular coil apparatus: 
+###  Circular coil apparatus: 
 
 ![circular coil 21](https://github.com/user-attachments/assets/61934cbb-a63d-43a4-86d1-f980d34b6e7b)
 
@@ -48,26 +48,50 @@ Radius of the circular coil, r =.............. cm
 
 Then plot the graph.
 
-### Procedure for doing the simulator:
-First, the preliminary adjustment should be done in order to make the apparatus in the magnetic meridian.
-<ul>
-<li>First, preliminary adjustments should be done in order to properly align the apparatus with the earth's magnetic field. The button Initial Adjustment is provided for this purpose. The experimental apparatus will be fully active only after the initial adjustments are done.</li>
-<li>On clicking the initial adjustment button, a zoomed view of the compass box will be displayed in the simulator. Two sliders Rotate Compass box and Rotate apparatus are provided.</li>
-<li>Using the slider Rotate Compass box, the compass box can be rotated and its 90-90 reading parallel to the plane of the coil. Fine adjustments can be made, if necessary, with the left-right arrow keys. </li>
-<li>When the 90-90 alignment is exact, the slider Rotate apparatus will be active. Using this, rotate the whole apparatus and make the aluminium pointer to read 0-0. Fine adjustments can be made with left-right arrow keys.</li>
-<li>Using the Show normal button in the simulator, go back to the experimental set up.</li>
-<li>Make the connections as shown in the circuit diagram. The user can drag the connection wires from the terminals of each components when a hand symbol appears there.</li>
-<li>Close  the circuit using the button Insert key.</li>
-<li>Zoom compass box enables the user to view the reading of the pointer.</li>
-<li>Number of turns of the coil: The user can select the number of turns of the coil using this combo box. </li>
-<li>Reverse current: Enables the user to reverse the direction of current through the circuit.</li>
-<li>Using the slider Radius of the coil, the user can change the radius of the coil.</li>
-<li>The slider along with the compass box can be moved along the arm of the apparatus using the slider Compass box position. The user can vary the distance  x of the compass box from the centre of the coil. </li>
-<li>Adjust Rheostat slider can be used to adjust the current through the circuit.</li>
-<li>Show result button displays the result after doing the experiment.</li>
-<li>A Reset button is provided to reset the experimental set up.  (Warning! all wires will be disconnected and the apparatus will be returned to its starting position.)</li>
-<li>The experiment can be repeated for different number of turns and radius of the coil and for different currents.</li>
-</ul>
+### Procedure for doing the simulator
+
+1. **Perform the initial alignment of the apparatus.**
+   - Click **Zoom Compass** to open the enlarged view of the compass box.
+   - Using the **Rotate Compass** slider, rotate the compass box until its **90–90 line is exactly parallel to the plane of the circular coil**.
+   - Once the compass box is correctly aligned, use the **Rotate Apparatus** slider to rotate the entire setup until the **aluminium pointer (compass needle) coincides with the 0–0 line**.
+   - Click **Show Normal** to return to the main experimental setup.
+
+2. **Set the number of turns of the circular coil** using the **Number of Turns of the Coil** slider.
+
+3. **Adjust the radius of the circular coil** using the **Radius of the Coil** slider.
+4. **Make the circuit connections** according to the circuit diagram displayed below.
+   - Click and drag each connection wire from one terminal to its corresponding terminal until all components are connected correctly.
+   - Complete all the required connections between the battery, ammeter, rheostat, commutator, circular coil, and key as shown in the circuit diagram.
+   - The circuit is ready once all the wires are connected properly.
+
+   <img width="976" height="970" alt="image" src="https://github.com/user-attachments/assets/140dcc21-06d9-49db-850c-7cba3439e607" />
+
+
+6. **Set the compass position** by moving the **Compass Position** slider to place the compass box at the desired distance from the centre of the circular coil.
+
+7. **Insert the key** by clicking the **Insert Key** button to complete the circuit.
+
+8. **Adjust the current** through the circular coil using the **Adjust Rheostat** slider until a suitable deflection of the compass needle is obtained.
+
+9. **Observe the compass deflection** by clicking **Zoom Compass**. Read the deflection of the aluminium pointer and return to the normal view using **Show Normal**.
+
+10. **Reverse the current** by clicking the **Reverse Current** button and again observe the compass deflection using the zoomed compass view.
+
+11. **Calculate the average deflection** from the observations corresponding to the forward and reverse current directions.
+
+12. **Repeat the experiment** for different compass positions while keeping the number of turns, coil radius, and current constant. Record the average deflection for each position.
+
+13. **Repeat the experiment** for different values of:
+    - Number of turns of the coil,
+    - Radius of the coil, and
+    - Current through the coil,
+
+    to study their effect on the magnetic field along the axis of the circular coil.
+
+14. Select the **Show Result** checkbox to display the calculated magnetic field corresponding to the selected experimental conditions.
+
+15. Click **Reset** to restore the simulator to its initial state and perform a new experiment.
+
 
 ## Result
 
