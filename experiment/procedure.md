@@ -11,6 +11,51 @@ Circular coil, compass box, ammeter, rheostat, commutator, cell, key, connection
 
 The apparatus consists of a circular coil C of 5 to 50 turns, having diameter about 10 centimeters. There is a brass frame in which the coil is wound. The frame is fitted to a stand, with its plane vertical. It can be moved along a rectangular wooden board. B is the deflection magnetometer. There is a scale fitted to the wooden board, from which the distance of the centre of the magnetic needle from the centre of the coil can be measured.
 
+### Procedure for doing the simulator
+
+1. **Perform the initial alignment of the apparatus.**
+   - Click **Zoom Compass** to open the enlarged view of the compass box.
+   - Using the **Rotate Compass** slider, rotate the compass box until its **90–90 line is exactly parallel to the plane of the circular coil**.
+   - Once the compass box is correctly aligned, use the **Rotate Apparatus** slider to rotate the entire setup until the **aluminium pointer (compass needle) coincides with the 0–0 line**.
+   - Click **Show Normal** to return to the main experimental setup.
+  
+2. **Make the circuit connections** according to the circuit diagram displayed below.
+   - Click and drag each connection wire from one terminal to its corresponding terminal until all components are connected correctly.
+   - The **INSER KEY** button will active when all the wires are connected properly. Click INSERT KEY to begin with the experiment.
+  
+   <img width="776" alt="image" src="images/CircuitConnection.png" />
+
+3. **Set the number of turns of the circular coil** using the **Number of Turns of the Coil** slider.
+
+4. **Adjust the radius of the circular coil** using the **Radius of the Coil** slider.
+5. **Set the compass position** by moving the **Compass Position** slider to place the compass box at the desired distance from the centre of the circular coil.
+6. **Insert the key** by clicking the **Insert Key** button to complete the circuit.
+7. **Adjust the current** through the circular coil using the **Adjust Rheostat** slider until a suitable deflection of the compass needle is obtained.
+8. **Observe the compass deflection** by clicking **Zoom Compass**. Read the deflection of the aluminium pointer and return to the normal view using **Show Normal**.
+9. **Reverse the current** by clicking the **Reverse Current** button and again observe the compass deflection using the zoomed compass view.
+10. **Calculate the average deflection** from the observations corresponding to the forward and reverse current directions.
+11. **Repeat the experiment** for different compass positions while keeping the number of turns, coil radius, and current constant. Record the average deflection for each position.
+
+| Distance from the centre, **x** (cm) | Left Side (Direct) θ₁ | Left Side (Direct) θ₂ | Left Side (Reversed) θ₃ | Left Side (Reversed) θ₄ | Right Side (Direct) θ₁ | Right Side (Direct) θ₂ | Right Side (Reversed) θ₃ | Right Side (Reversed) θ₄ | Mean θ (degrees) | Bₓ (T) | B₀ = Bₓ / tan θ (T) |
+|--------------------------------------|----------------------:|----------------------:|------------------------:|------------------------:|-----------------------:|-----------------------:|-------------------------:|-------------------------:|-----------------:|--------:|--------------------:|
+|                                      |                       |                       |                         |                         |                        |                        |                          |                          |                  |         |                     |
+|                                      |                       |                       |                         |                         |                        |                        |                          |                          |                  |         |                     |
+|                                      |                       |                       |                         |                         |                        |                        |                          |                          |                  |         |                     |
+|                                      |                       |                       |                         |                         |                        |                        |                          |                          |                  |         |                     |
+|                                      |                       |                       |                         |                         |                        |                        |                          |                          |                  |         |                     |
+
+
+13. **Repeat the experiment** for different values of:
+    - Number of turns of the coil,
+    - Radius of the coil, and
+    - Current through the coil,
+
+    to study their effect on the magnetic field along the axis of the circular coil.
+
+14. Select the **Show Result** checkbox to display the calculated magnetic field corresponding to the selected experimental conditions.
+15. Click **Reset** to restore the simulator to its initial state and perform a new experiment.
+
+
 
 ### Procedure for doing the real lab:
 
@@ -46,51 +91,9 @@ Radius of the circular coil, r =.............. cm
 
 ![cir15](https://github.com/user-attachments/assets/78f97969-f428-416a-8ce7-3ace253fee29)
 
-Then plot the graph.
-
-### Procedure for doing the simulator
-
-1. **Perform the initial alignment of the apparatus.**
-   - Click **Zoom Compass** to open the enlarged view of the compass box.
-   - Using the **Rotate Compass** slider, rotate the compass box until its **90–90 line is exactly parallel to the plane of the circular coil**.
-   - Once the compass box is correctly aligned, use the **Rotate Apparatus** slider to rotate the entire setup until the **aluminium pointer (compass needle) coincides with the 0–0 line**.
-   - Click **Show Normal** to return to the main experimental setup.
-
-2. **Set the number of turns of the circular coil** using the **Number of Turns of the Coil** slider.
-
-3. **Adjust the radius of the circular coil** using the **Radius of the Coil** slider.
-4. **Make the circuit connections** according to the circuit diagram displayed below.
-   - Click and drag each connection wire from one terminal to its corresponding terminal until all components are connected correctly.
-   - Complete all the required connections between the battery, ammeter, rheostat, commutator, circular coil, and key as shown in the circuit diagram.
-   - The circuit is ready once all the wires are connected properly.
-
-   <img width="976" height="970" alt="image" src="https://github.com/user-attachments/assets/140dcc21-06d9-49db-850c-7cba3439e607" />
+Then plot the graph between distance and magnetic field intensity.
 
 
-6. **Set the compass position** by moving the **Compass Position** slider to place the compass box at the desired distance from the centre of the circular coil.
-
-7. **Insert the key** by clicking the **Insert Key** button to complete the circuit.
-
-8. **Adjust the current** through the circular coil using the **Adjust Rheostat** slider until a suitable deflection of the compass needle is obtained.
-
-9. **Observe the compass deflection** by clicking **Zoom Compass**. Read the deflection of the aluminium pointer and return to the normal view using **Show Normal**.
-
-10. **Reverse the current** by clicking the **Reverse Current** button and again observe the compass deflection using the zoomed compass view.
-
-11. **Calculate the average deflection** from the observations corresponding to the forward and reverse current directions.
-
-12. **Repeat the experiment** for different compass positions while keeping the number of turns, coil radius, and current constant. Record the average deflection for each position.
-
-13. **Repeat the experiment** for different values of:
-    - Number of turns of the coil,
-    - Radius of the coil, and
-    - Current through the coil,
-
-    to study their effect on the magnetic field along the axis of the circular coil.
-
-14. Select the **Show Result** checkbox to display the calculated magnetic field corresponding to the selected experimental conditions.
-
-15. Click **Reset** to restore the simulator to its initial state and perform a new experiment.
 
 
 ## Result
