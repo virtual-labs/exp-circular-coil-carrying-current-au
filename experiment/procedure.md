@@ -21,7 +21,7 @@ The apparatus consists of a circular coil C of 5 to 50 turns, having diameter ab
   
 2. **Make the circuit connections** according to the circuit diagram displayed below.
    - Click and drag each connection wire from one terminal to its corresponding terminal until all components are connected correctly.
-   - The **INSERT KEY** button will be active when all the wires are connected properly. Click INSERT KEY to begin with the experiment.
+   - The **INSERT KEY** button will be activated when all the wires are connected properly. Click INSERT KEY to begin with the experiment.
   
    <img width="776" alt="image" src="images/CircuitConnection.png" />
 
@@ -98,5 +98,5 @@ Then plot the graph between distance and magnetic field intensity.
 
 ## Result
 
-Flux density due to earths horizontal field at the place=..........T
+Flux density due to Earth's horizontal field at the place=..........T
 
