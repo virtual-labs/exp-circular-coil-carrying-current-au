@@ -14,7 +14,7 @@ The apparatus consists of a circular coil C of 5 to 50 turns, having diameter ab
 ### Procedure for doing the simulator
 
 1. **Perform the initial alignment of the apparatus.**
-   - Click **Zoom Compass** to open the enlarged view of the compass box.
+   - Click **INITIAL ADJUSTMENT** to open the enlarged view of the compass box.
    - Using the **Rotate Compass** slider, rotate the compass box until its **90–90 line is exactly parallel to the plane of the circular coil**.
    - Once the compass box is correctly aligned, use the **Rotate Apparatus** slider to rotate the entire setup until the **aluminium pointer (compass needle) coincides with the 0–0 line**.
    - Click **Show Normal** to return to the main experimental setup.
